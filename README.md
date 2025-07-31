@@ -120,11 +120,7 @@ mq7.calibrate();  // Called in setup()
 
 ---
 
-## 📸 Screenshots
 
-*(Add screenshots or GIFs of the dashboard, `/read` JSON, and `/change` form here.)*
-
----
 
 ## ⚙️ Project Structure
 
